@@ -1,0 +1,7 @@
+.background-image {
+    background-image: url("/src/assets/treasurehunt.jpg"); /* Path to the image */
+    background-size: cover; /* Ensures the image covers the entire component */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents image repetition */
+    height: 100%; /* Ensure it covers the full content height */
+  }

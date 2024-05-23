@@ -1,0 +1,24 @@
+.login-content {
+    background-color: #f8f9fa; /* Light background color */
+  }
+  
+  .login-header {
+    padding: 16px; /* Padding for header section */
+  }
+  
+  .login-logo {
+    width: 100px; /* Adjust logo size */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  .login-card {
+    margin-top: 16px; /* Spacing above the card */
+  }
+  .background-image {
+    background-image: url('/src/assets/treasurehunt.jpg'); /* Path to the image */
+    background-size: cover; /* Ensures the image covers the entire component */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents repetition */
+    height: 100%; /* Ensures the background image fills the component */
+    width: 100%; /* Ensures the image spans the full width */
+  }

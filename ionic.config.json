@@ -1,0 +1,7 @@
+{
+  "name": "thunt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
